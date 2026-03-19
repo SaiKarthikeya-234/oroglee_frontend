@@ -29,3 +29,5 @@ VITE_API_URL=http://localhost:5001
 npm run dev
 ```
 The application will launch and be available in your browser at `http://localhost:5173`.
+
+This is the backend repo : https://github.com/SaiKarthikeya-234/oroglee_backend
