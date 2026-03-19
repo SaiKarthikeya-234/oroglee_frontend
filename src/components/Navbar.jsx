@@ -21,7 +21,7 @@ function Navbar() {
             to="/admin"
             className={location.pathname === '/admin' ? 'active' : ''}
           >
-            Concierge Desk
+            Admin Login
           </Link>
         </div>
       </div>
